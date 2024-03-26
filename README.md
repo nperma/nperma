@@ -12,3 +12,7 @@ Hi there! I'm a Scripting Developer for Minecraft Bedrock Edition and a WhatsApp
 - **JavaScript:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
 - **TypeScript:** ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
 - **Minecraft:** ![Minecraft](https://img.shields.io/badge/-Minecraft-0089FF?logo=minecraft&logoColor=white)
+
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nperma&layout=compact)
