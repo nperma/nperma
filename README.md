@@ -2,7 +2,7 @@
 
 Hi there! I'm a Scripting Developer for Minecraft Bedrock Edition and a WhatsApp Bot Developer.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nperma&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nperma&show_icons=true&theme=transparent)
 
 --------------------------------------------------------
 
