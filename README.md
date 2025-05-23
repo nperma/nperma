@@ -1,19 +1,33 @@
-# WELCOME
------------------------
+<link rel="stylesheet" href="styles.css">
 
-<img src="avatarHead.png" width="500" height="500" >
+<h1 align="center">ABOUT ME</h1>
 
-Hello, I'm nperma, a creator of Minecraft Bedrock addons.
+<div align="center">
+  <img src="images/avatar.png" alt="Minecraft Avatar" width="150" style="border-radius: 8px; margin-right: 20px; float: left;"/>
 
-----------------------
+  <div align="left">
+    <h2>Hello, I'm Nperma</h2>
+    <p>born in indonesia, experience in minecraft bedrock addons</p>
+        <p>Part of the Minecraft Bedrock Addons and Minecraft Development Indonesia community</p>
+        <p>Creator of Stool-API and QwoUI</p>
+        <p>Based on ScriptAPI and JSON UI</p>
+    <p>Thanks for visiting my profile</p>
+  </div>
+</div>
 
-### Connect
+<br clear="both"/>
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/8ferx5wyAB)
-[![MCPEDL](https://img.shields.io/badge/MCPEDL-000000?style=for-the-badge&logo=minecraft&logoColor=white)](https://mcpedl.com/user/nperma/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/user/Nperma)
+<hr>
 
-### Language & Statistic
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
----------------------------
-![Stats](https://github-readme-stats.vercel.app/api?username=nperma&theme=transparent) ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=nperma&layout=compact&theme=transparent)
+## GitHub Stats
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nperma&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nperma&theme=darkhub&no-frame=true&row=1" alt="Trophies" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nperma&theme=github_dark" />
+</p>
