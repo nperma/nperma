@@ -1,13 +1,13 @@
 @font-face {
   font-family: "MinecraftSeven";
-  src: url("fonts/Seven.ttf") format("truetype");
+  src: url("font/Seven.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "MinecraftTen";
-  src: url("fonts/Ten.otf") format("opentype");
+  src: url("font/Ten.otf") format("opentype");
   font-weight: bold;
   font-style: normal;
 }
