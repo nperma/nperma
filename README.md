@@ -1,7 +1,7 @@
 # WELCOME
 -----------------------
 
-<img src="avatarHead.png">
+<img src="avatarHead.png" width="500" height="500" >
 
 Hello, I'm nperma, a creator of Minecraft Bedrock addons.
 
