@@ -21,12 +21,13 @@
 
 ## GitHub Stats
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nperma&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nperma&theme=darkhub&no-frame=true&row=1" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nperma&theme=onedark" alt="Trophies" />
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nperma&theme=github_dark" />
