@@ -21,14 +21,4 @@
 
 ## GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nperma&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nperma&theme=onedark" alt="Trophies" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nperma&theme=github_dark" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nperma&show_icons=true&theme=github_dark&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=nperma&theme=github-dark&hide_border=true" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=nperma&theme=onedark&no-frame=true&row=1&column=6" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nperma&theme=github_dark" /> </p>
