@@ -2,9 +2,6 @@
 
 <h1 align="center">ABOUT ME</h1>
 
-<div align="center">
-  <img src="images/avatar.png" alt="Minecraft Avatar" width="150" style="border-radius: 8px; margin-right: 20px; float: left;"/>
-
   <div align="left">
     <h2>Hello, I'm Nperma</h2>
     <p>born in indonesia, experience in minecraft bedrock addons</p>
