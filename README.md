@@ -6,7 +6,7 @@
     <h2>Hello, I'm Nperma</h2>
     <p>born in indonesia, experience in minecraft bedrock addons</p>
         <p>Part of the Minecraft Bedrock Addons and Minecraft Development Indonesia community</p>
-        <p>Creator of Stool-API and QwoUI</p>
+        <p>Creator of Servertool-API and QwoUI</p>
         <p>Based on ScriptAPI and JSON UI</p>
     <p>Thanks for visiting my profile</p>
   </div>
