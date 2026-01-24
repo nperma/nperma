@@ -1,3 +1,3 @@
-![](https://github.com/nperma/nperma/blob/1baa6a77ef4471b4bc231c720eb8639d605da25c/Proyek%20Baru%20%5B48EF570%5D.gif)
+![](https://github.com/nperma/nperma/blob/8a793be46893596a3167f0773c871ea3f424c74b/Proyek%20Baru%20%5B8C1A165%5D.png)
 
 ## Nperma
