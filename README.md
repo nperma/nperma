@@ -1,4 +1,4 @@
-<video src="https://github.com/nperma/nperma/blob/main/Proyek%20Baru%20%5BB71C030%5D.mp4" controls></video>
+https://raw.githubusercontent.com/nperma/nperma/main/Proyek%20Baru%20%5BB71C030%5D.mp4
 <link rel="stylesheet" href="styles.css">
 
 <h1 align="center">ABOUT ME</h1>
