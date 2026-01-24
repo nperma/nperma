@@ -37,9 +37,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nperma&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nperma&theme=github-compact&hide_border=true" />
 </p>
