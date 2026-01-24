@@ -19,6 +19,8 @@
 
 <h1 align="center">Statistic</h1>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nperma&layout=compact&theme=transparent&hide_border=true" />
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;"> 
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nperma&show_icons=true" alt="Stats" /> 
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nperma&layout=compact" alt="Top Langs" /> 
 </div>
+
