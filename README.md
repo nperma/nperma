@@ -1,5 +1,5 @@
 <video width="1584" height="396" controls>
-  <source src="./Proyek Baru [B71C030].mp4" type="video/mp4">
+  <source src="vide.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 <link rel="stylesheet" href="styles.css">
