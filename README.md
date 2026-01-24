@@ -5,10 +5,6 @@
   <img src="https://img.shields.io/github/followers/nperma?style=flat-square&color=58A6FF" alt="Followers"/>
 </div>
 
-<div align="center">
+<h1 align=center>Statistic</h1>
   <img src="https://github-readme-stats.vercel.app/api?username=nperma&show_icons=true&theme=transparent&hide_border=true" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nperma&layout=compact&theme=transparent&hide_border=true" />
-</div>
