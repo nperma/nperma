@@ -1,10 +1,10 @@
+<link rel="stylesheet" href="styles.css">
+
+<h1 align="center">ABOUT ME</h1>
 <video width="1584" height="396" controls>
   <source src="vide.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-<link rel="stylesheet" href="styles.css">
-
-<h1 align="center">ABOUT ME</h1>
 
   <div align="left">
     <h2>Hello, I'm Nperma</h2>
