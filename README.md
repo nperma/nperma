@@ -1,4 +1,7 @@
-https://raw.githubusercontent.com/nperma/nperma/main/Proyek%20Baru%20%5BB71C030%5D.mp4
+<video width="1584" height="396" controls>
+  <source src="movie.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 <link rel="stylesheet" href="styles.css">
 
 <h1 align="center">ABOUT ME</h1>
