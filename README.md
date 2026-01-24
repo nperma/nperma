@@ -1,29 +1,3 @@
-<link rel="stylesheet" href="styles.css">
+![](https://github.com/nperma/nperma/blob/1baa6a77ef4471b4bc231c720eb8639d605da25c/Proyek%20Baru%20%5B48EF570%5D.gif)
 
-<h1 align="center">ABOUT ME</h1>
-<video width="1584" height="396" controls>
-  <source src="vide.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-  <div align="left">
-    <h2>Hello, I'm Nperma</h2>
-    <p>born in indonesia, experience in minecraft bedrock addons</p>
-        <p>Part of the Minecraft Bedrock Addons and Minecraft Development Indonesia community</p>
-        <p>Creator of Servertool-API and QwoUI</p>
-        <p>Based on ScriptAPI and JSON UI</p>
-    <p>Thanks for visiting my profile</p>
-  </div>
-</div>
-
-<br clear="both"/>
-
-<hr>
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nperma&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nperma&theme=github_dark" />
-</p>
-  <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nperma&theme=github_dark" /> </p>
+## Nperma
