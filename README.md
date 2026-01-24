@@ -6,5 +6,4 @@
 </div>
 
 <h1 align=center>Statistic</h1>
-  <img src="https://github-readme-stats.vercel.app/api?username=nperma&show_icons=true&theme=transparent&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nperma&layout=compact&theme=transparent&hide_border=true" />
